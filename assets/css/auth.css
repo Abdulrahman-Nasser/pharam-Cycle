@@ -297,10 +297,17 @@ h2 {
   border: none;
   transition: all 0.3s;
 }
+.dark-btn{
+  background-color: black;
+}
 
 .link-sign-up:hover {
   box-shadow: 8px 10px 15px #000;
   letter-spacing: 2px;
+}
+
+.link-home{
+  background-color: #000;
 }
 
 .link-home:hover {
